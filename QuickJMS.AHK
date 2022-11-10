@@ -2,7 +2,7 @@
 #Persistent
 #NoEnv
 SetWorkingDir %A_ScriptDir% ;set to script directory to see files
-ver := "0.0.1"
+ver := "0.0.2"
 GuiVisible := false
 SendMode, Input 
 
